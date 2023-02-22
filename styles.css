@@ -1,0 +1,285 @@
+body {
+  background-color: LightSkyBlue;
+  font-family: "Helvetica", sans-serif;
+  color: black;
+/* Roman and Times New Roman*/
+}
+
+h1 {
+  color: blanchedalmond;
+  font-family: "Times New Roman", serif;
+  text-align: center;
+}
+
+nav ul {
+    background-color: tomato;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+nav ul {
+  background-color: tomato;
+  border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+nav ul li a {color: PapayaWhip;
+    text-decoration: none;
+}
+
+img {
+  border-radius:10px;
+}
+
+.planes {
+  background-color: azure;
+  border: 2px solid;
+}
+
+.airplanes {
+  background-color: dodgerblue;
+  border: 2px solid;
+}
+
+.Different_parts_of_a_ship span{
+ color: yellowgreen;
+ font-weight: bold;
+}
+
+/*.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  margin: 10px auto 0;
+}
+p{
+    margin-left:  3em;
+    padding-top: 1em;
+    margin-top: 1em;
+}
+.images_part{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 1em;
+    padding: 1em;
+}
+h3{
+    margin: 1em;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}*/
+
+.airplane_wing img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 100px;
+
+}
+
+.airplane_types img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.airplane_engine img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.airplanes img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.Ships img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.planes img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.airplane_wing {
+  background-color: rgb(20, 162, 146);
+  border: 2px solid;
+}
+
+.airplane_engine {
+  background-color: greenyellow;
+  border: 2px solid;
+}
+
+.airplane_parts {
+  background-color: yellow;
+  border: 2px solid;
+}
+
+.airplane_parts img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.airplane_types {
+  background-color: orange;
+  border:  2px solid;
+}
+
+.Ships {
+  background-color: beige;
+  border: 2px solid;
+}
+
+.History {
+  background-color: cornflowerblue;
+  border: 2px solid;
+}
+.History img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.the_tries {
+  background-color: aquamarine;
+  border: 2px solid;
+}
+
+.Comparison {
+  background-color: rgb(41, 209, 238);
+  border: 2px solid;
+}
+
+.Comparison img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.Cruise_Ships {
+  background-color: bisque;
+  border: 2px solid;
+}
+
+.Cruise_Ships img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.Ship_propulsion_systems {
+  background-color: lightgreen;
+  border: 2px solid;
+}
+
+.Ship_propulsion_systems img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.Ships_types {
+  background-color: lightblue;
+  border: 2px solid;
+}
+
+.Ships_types img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.Amazing_ships {
+  background-color: yellow;
+  border: 2px solid;
+}
+
+.Amazing_ships img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.Different_parts_of_a_ship {
+  background-color: lightcoral;
+  border: 2px solid;
+}
+
+.how_a_ships_engine-works {
+  background-color: lightseagreen;
+  border: 2px solid;
+}
+
+.Different_parts_of_a_ship img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.how_a_ships_engine-works img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+.History_of_steam_ships {
+  background-color: lightcoral;
+  border: 2px solid;
+}
+
+.Titanic img{
+  position: relative;
+  margin: 0px auto;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.Titanic {
+  background-color: rgb(31, 141, 130);
+  border: 2px solid;
+}
+
+/**********************************
+This section is for styling tables
+***********************************/ 
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
